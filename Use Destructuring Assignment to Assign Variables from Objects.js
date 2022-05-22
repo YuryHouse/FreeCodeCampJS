@@ -14,7 +14,7 @@ const { name: userName, age: userAge } = user;
 // Replace the two assignments with an equivalent destructuring assignment.
 // It should still assign the variables highToday and highTomorrow the values of today and tomorrow from the HIGH_TEMPERATURES object.
 
-onst HIGH_TEMPERATURES = {
+const HIGH_TEMPERATURES = {
   yesterday: 75,
   today: 77,
   tomorrow: 80
